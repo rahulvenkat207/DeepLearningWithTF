@@ -1,1 +1,2 @@
 Digit Classification
+Digit classification is a multiclass classification problem, where you have to classify an image into one out of the ten possible digit classes
